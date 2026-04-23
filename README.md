@@ -1,10 +1,11 @@
-# geog4500
-Geospatial Programming
+# GEOG 4500 - Python Programming for GIS
 
 **Student**: [AJ Abshire]
 **Semester**: Spring 2026
 **University**: Kennesaw State University
 
-AJ Abshire
+## Repository Structure
 
-This repository is for any homework and assignments that require it within our GIS Coding class.
+- 'lectures/' - In-class notebooks and examples
+- 'homework/' - Completed homework assignments
+- 'data/' - Datasets used in assignments
